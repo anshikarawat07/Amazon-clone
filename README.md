@@ -38,7 +38,8 @@ Amazon-Clone/
 2. Open `amazon.html` in your browser.
 
 ## Screenshots
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7481507b-0a24-4b1f-bca5-cec5c6237910)
+
 
 
 ## Future Improvements
